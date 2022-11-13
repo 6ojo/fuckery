@@ -27,6 +27,8 @@ if user_input == my_str:
     print('fantastic!')
     time.sleep(1.2)
     print('applause!')
+    time.sleep(0.4)
+    print('you hear raging applause')
     
 else:
     print('you missed your chance to solo')
